@@ -1,2 +1,4 @@
 # hello-world
-Hello there
+Hello there!
+
+Let's have some fun.
